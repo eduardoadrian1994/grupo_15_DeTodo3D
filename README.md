@@ -40,7 +40,7 @@ En cuanto a las otras, fueron elegidas por lo estético, relacionado al estilo d
 
 ## Logos, colores y fuentes
 
-- [Logos]()
+- [Logos](https://github.com/eduardoadrian1994/grupo_15_DeTodo3D/blob/master/design/logos/logo.png)
 - [Colores]()
 - Fuentes:
     - []()
