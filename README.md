@@ -1,5 +1,7 @@
 # DeTodo3D
 
+![logotipo](/design/logos/logo.png)
+
 ## Primer Sprint (01/08)
 
 ## Integrantes
