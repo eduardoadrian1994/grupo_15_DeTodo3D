@@ -8,7 +8,7 @@
 
 
 ### Lopez, Adrian, Eduardo
-- 23 años
+- 27 años
 - Estudiante de Programación Web
 
 ## Temática de la web y audiencia objetivo
