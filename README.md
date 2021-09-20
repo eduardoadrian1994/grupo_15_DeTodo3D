@@ -24,7 +24,7 @@ realizado en el curso de programacion web que viene de parte de digital house y 
 - [solidos3d](https://www.solidos3d.com.ar/)
 - [toolbox3d](https://www.toolbox3d.com.ar/)
 
-Mi elección se basó principalmente en la funcionalidad del e-commerce, tal es el caso de - [solidos3d](https://www.solidos3d.com.ar/) de la cual tomamos la estructura básica de la tienda y parte de la presentación de los productos. 
+Mi elección se basó principalmente en la funcionalidad del e-commerce, tal es el caso de   [solidos3d](https://www.solidos3d.com.ar/) de la cual tomamos la estructura básica de la tienda y parte de la presentación de los productos. 
 En cuanto a las otras, fueron elegidas por lo estético, relacionado al estilo del front-end y experiencia de navegación por el sitio.
 
 ## Wireframes
