@@ -31,11 +31,11 @@ En cuanto a las otras, fueron elegidas por lo estético, relacionado al estilo d
 
 ## Wireframes
 
-- [Home]()
-- [Detalles de producto]()
-- [Carrito de compras]()
-- [Formulario de registro]()
-- [Formulario de carga de producto]()
+- [Home](https://github.com/eduardoadrian1994/grupo_15_DeTodo3D/blob/master/wireframes/home.png)
+- [Detalles de producto](https://github.com/eduardoadrian1994/grupo_15_DeTodo3D/blob/master/wireframes/detalle%20del%20%20producto.png)
+- [Carrito de compras](https://github.com/eduardoadrian1994/grupo_15_DeTodo3D/blob/master/wireframes/detalle%20del%20carrito.png)
+- [Formulario de registro](https://github.com/eduardoadrian1994/grupo_15_DeTodo3D/blob/master/wireframes/registro.png)
+- [Formulario de carga de producto](https://github.com/eduardoadrian1994/grupo_15_DeTodo3D/blob/master/wireframes/carga%20de%20%20productos.png)
 
 
 ## Logos, colores y fuentes
